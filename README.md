@@ -210,6 +210,6 @@ java -cp bin Main
 
 **CIT300 – Graded Practical Assignment 2**
 **Faculty of Computing and IT**
-**Submission Date: 29th September**
+**Submission Date: 13th October**
 
 </div>

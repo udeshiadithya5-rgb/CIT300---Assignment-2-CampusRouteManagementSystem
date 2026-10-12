@@ -14,7 +14,7 @@ A Java console application demonstrating Array, Stack, Queue, Linked List, Graph
 | K.A.D.U. Adithya | 23DA2-0366 | Array, Searching, Input Validation, Main Integration |
 | W.A.M. Maduranga | 23DA2-0155 | Stack & Queue Implementation |
 | R.P.G.S. Sandakelum | 23DA2-0216 | Linked List & Performance Comparison |
-| H.P.M. Manodhya | 23DA2-0255 | Graph Implementation & BFS/DFS |
+| H.P.M. Manodhya | 23DA2-0225 | Graph Implementation & BFS/DFS |
 
 ---
 
@@ -54,7 +54,7 @@ A Java console application demonstrating Array, Stack, Queue, Linked List, Graph
 
 ---
 
-### 🧑‍💻 H.P.M. Manodhya (23DA2-0255)
+### 🧑‍💻 H.P.M. Manodhya (23DA2-0225)
 **Assigned Responsibility:** Graph Implementation & BFS/DFS
 
 **Individual Contribution:**
@@ -204,19 +204,7 @@ java -cp bin Main
 - [x] README with all member details
 - [x] GitHub collaboration evidence
 
----
 
-## 📌 Google Drive Submission
-
-If the project is too large for LMS upload:
-- Upload project to Google Drive
-- Share with **Editor access** to:
-  - `asanka.r@slte.ac.lk`
-  - `kaushika.w@slte.ac.lk`
-- Paste the folder link into a `.txt` file
-- Upload the `.txt` file to LMS
-
----
 
 <div align="center">
 
